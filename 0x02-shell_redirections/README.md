@@ -1,1 +1,1 @@
-Save current state of directoryy
+Duplicate last line
