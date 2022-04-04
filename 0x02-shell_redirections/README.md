@@ -1,1 +1,1 @@
-display first lines
+dispay the first three  lines
