@@ -1,1 +1,1 @@
-First 10 lines of a file
+display first lines
