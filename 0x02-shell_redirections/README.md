@@ -1,1 +1,1 @@
-Content of etc/passwd file.
+Two file's content
