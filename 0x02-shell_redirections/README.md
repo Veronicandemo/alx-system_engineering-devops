@@ -1,2 +1,1 @@
-#!/bin/bash
-tr '[Ac]' '[Ze]'
+Without C, you would live in hiago
