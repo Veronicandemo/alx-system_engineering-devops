@@ -1,1 +1,1 @@
-I'm an instant star. Just add water and stir
+An alias
