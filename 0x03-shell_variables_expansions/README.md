@@ -1,1 +1,1 @@
-Decimal to Hexadecima
+Everyone is a proponent of strong encryption
