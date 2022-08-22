@@ -1,0 +1,9 @@
+
+Best School = 0
+
+until [ $Best School -gt 10]
+do
+  echo Best School
+  ((Best School++))
+done
+Copy
