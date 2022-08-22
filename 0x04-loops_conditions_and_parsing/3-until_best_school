@@ -1,9 +1,10 @@
 
 Best School = 0
 
-until [ $Best School -gt 10]
+counter=0
+
+until [ $counter -gt 9 ]
 do
-  echo Best School
-  ((Best School++))
+  echo "Best School"
+  ((counter++))
 done
-Copy
