@@ -1,7 +1,3 @@
-#/usr/bin/env bash
-# Congigures ufw firewall to block all incomming traffic
-# Except TCP ports 22, 443, and 80
-
 apt-get install ufw
 nano /etc/default/ufw
 ufw disable
